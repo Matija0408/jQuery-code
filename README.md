@@ -1,6 +1,8 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Matija0408/jQuery-code) 
+
 # Code Institute
 
-Welcome USER_NAME,
+Welcome Matija0408,
 
 We have preinstalled all of the tools you need to get started.
 
